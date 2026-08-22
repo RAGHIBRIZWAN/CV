@@ -18,5 +18,4 @@ def run(output_path='task4_output.png'):
     print(f"Canvas center coordinates: {center}")
     cv2.imwrite(output_path, img)
 
-if __name__ == '__main__':
-    run()
+run()
