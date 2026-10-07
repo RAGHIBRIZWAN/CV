@@ -1,0 +1,5 @@
+Experiment,Distance Threshold,Foreground (markers),Regions (separated),Observed Result
+1,0.3 x max,1,1,Some coins lost / merged (cores vanished or fused)
+2,0.5 x max,24,24,Most meaningful: one region per coin
+3,0.7 x max,24,24,Most meaningful: one region per coin
+4,0.9 x max,24,24,Most meaningful: one region per coin
